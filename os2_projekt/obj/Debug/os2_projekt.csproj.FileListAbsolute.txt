@@ -1,0 +1,15 @@
+C:\Users\Matej\source\repos\os2_projekt\os2_projekt\bin\Debug\os2_projekt.exe.config
+C:\Users\Matej\source\repos\os2_projekt\os2_projekt\bin\Debug\os2_projekt.exe
+C:\Users\Matej\source\repos\os2_projekt\os2_projekt\bin\Debug\os2_projekt.pdb
+C:\Users\Matej\source\repos\os2_projekt\os2_projekt\obj\Debug\os2_projekt.csproj.AssemblyReference.cache
+C:\Users\Matej\source\repos\os2_projekt\os2_projekt\obj\Debug\os2_projekt.csproj.SuggestedBindingRedirects.cache
+C:\Users\Matej\source\repos\os2_projekt\os2_projekt\obj\Debug\os2_projekt.Properties.Resources.resources
+C:\Users\Matej\source\repos\os2_projekt\os2_projekt\obj\Debug\os2_projekt.csproj.GenerateResource.cache
+C:\Users\Matej\source\repos\os2_projekt\os2_projekt\obj\Debug\os2_projekt.csproj.CoreCompileInputs.cache
+C:\Users\Matej\source\repos\os2_projekt\os2_projekt\obj\Debug\os2_projekt.exe
+C:\Users\Matej\source\repos\os2_projekt\os2_projekt\obj\Debug\os2_projekt.pdb
+C:\Users\Matej\source\repos\os2_projekt\os2_projekt\obj\Debug\os2_projekt.PocetnaForma.resources
+C:\Users\Matej\source\repos\os2_projekt\os2_projekt\obj\Debug\os2_projekt.AsimetricnaKriptografija.resources
+C:\Users\Matej\source\repos\os2_projekt\os2_projekt\obj\Debug\os2_projekt.SimetricnaKriptografija.resources
+C:\Users\Matej\source\repos\os2_projekt\os2_projekt\obj\Debug\os2_projekt.Sazetak.resources
+C:\Users\Matej\source\repos\os2_projekt\os2_projekt\obj\Debug\os2_projekt.DigitalniPotpis.resources
